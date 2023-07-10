@@ -5,3 +5,6 @@ Demoed a prototype that performs the basic arithmetic operations.
 Everything was done on Altium.
 
 ![image](https://github.com/AhmedM-Fouad/Analog-Signals-Controller/assets/121318019/214817d7-198b-4a5d-bc3c-309336942c2f)
+
+Demo Link:
+https://drive.google.com/file/d/1gux2pidr2l7cSE-6OBSgmRLiTxG42vZX/view?usp=drive_link
